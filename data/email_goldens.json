@@ -1,0 +1,107 @@
+[
+    {
+        "input": "When is the Digital Safety Presentation scheduled for December?",
+        "actual_output": null,
+        "expected_output": "The Digital Safety Presentation is scheduled for Wednesday, December 10, 2025 at 8:15 a.m.",
+        "retrieval_context": null,
+        "context": [
+            "Digital Safety ** This month's Principal's Chat will be presented by Casey Vess, a Crime Prevention Specialist from SJPD on the topic of Digital Safety. Graystone will learn about best practices to help our students use the internet responsibly. Student presentations will also be provided by SJPD in December. Please RSVP on the Digital Safety Presentation post so we can prepare for the appropriate amount of attendees. We hope you join us on **Wednesday, December 10, 2025 at 8:15 a.m**. Light refreshments will be provided. ** School Site Council ** The 3rd School Site Council will be on **Wedne"
+        ],
+        "name": null,
+        "comments": null,
+        "source_file": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "additional_metadata": {
+            "evolutions": [
+                "Constrained"
+            ],
+            "synthetic_input_quality": 0.8
+        },
+        "custom_column_key_values": null
+    },
+    {
+        "input": "When are winter tryouts for fall athletes?",
+        "actual_output": null,
+        "expected_output": "For fall athletes wishing to try out for a winter sport, a special tryout will be arranged if their fall sport overlaps with the winter tryouts. This is to ensure they can finish their fall season in its entirety before participating in winter tryouts.",
+        "retrieval_context": null,
+        "context": [
+            "This announcement is for all grades and applies to all sports.. Winter Tryouts See below for tryouts dates and times. Athletes must be fully cleared through Register My Athlete in order to participate in tryouts. Fall sports athletes should finish their fall sport season in its entirety before going to a winter sport. Fall sport athletes wishing to try out for a winter sport will have a special tryout arranged for them if their fall sport overlaps with the winter tryouts. No fall athlete will be released from their fall sport early for winter tryouts. Unless otherwise noted, the dates and time"
+        ],
+        "name": null,
+        "comments": null,
+        "source_file": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "additional_metadata": {
+            "evolutions": [
+                "Constrained"
+            ],
+            "synthetic_input_quality": 0.8
+        },
+        "custom_column_key_values": null
+    },
+    {
+        "input": "When does the Quixilver team depart for the competition?",
+        "actual_output": null,
+        "expected_output": "Unfortunately, there is no information in the provided context about when the Quixilver team departs for the competition. However, we do know that the first competition is 10 days away from the current date (implied by \"Our first competition is 10 days away!\").",
+        "retrieval_context": null,
+        "context": [
+            "Hi Students and Parents, Our first competition is 10 days away! If you and/or your parents want to order 2026 team shirts, please fill out this form by the end of Friday, Feb. 27. Note that filling out the form is a financial commitment to purchase shirts and we have no plans to order extras. Thanks to Anne Han for the great design! FIRST Robotics Team 604 Quixilver Leland High School You received this message because you are subscribed to the Google Groups \"Leland Robotics Parents\" group. To unsubscribe from this group and stop receiving emails from it, send an email to leland_robotics_parent"
+        ],
+        "name": null,
+        "comments": null,
+        "source_file": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "additional_metadata": {
+            "evolutions": [
+                "In-Breadth"
+            ],
+            "synthetic_input_quality": 0.7
+        },
+        "custom_column_key_values": null
+    },
+    {
+        "input": "What are the protected characteristics in our school policy?",
+        "actual_output": null,
+        "expected_output": "According to the provided context, the protected characteristics in your school policy include:\n\n* Étnico real o percibido (real or perceived ethnicity)\n* Color\n* Discapacidad (disability)\n* Género (gender)\n* Identidad de género (gender identity)\n* Expresión de género (gender expression)\n* Estatus migratorio (migration status)\n* Nacionalidad (nationality)\n* Raza o origen étnico (race or ethnic origin)\n* Religión (religion)\n* Sexo (sex)\n* Orientación sexual (sexual orientation)\n\nThese characteristics are protected under the school policy and apply to all acts related to school activity or attendance within the school.",
+        "retrieval_context": null,
+        "context": [
+            "étnico real o percibido, el color, una discapacidad, el género, la identidad de género, la expresión de género, el estatus migratorio, la nacionalidad, la raza o el origen étnico, la religión, el sexo, la orientación sexual o la asociación con una persona o un grupo con una o más de estas características reales o percibidas. Esto se aplica a todos los actos relacionados con la actividad escolar o con la asistencia a la escuela que se produzcan dentro de una escuela de acuerdo con la jurisdicción de la dependencia educativa local (LEA, por sus siglas en inglés) y a todos los actos de la Mesa Di"
+        ],
+        "name": null,
+        "comments": null,
+        "source_file": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "additional_metadata": {
+            "evolutions": [
+                "In-Breadth"
+            ],
+            "synthetic_input_quality": 1.0
+        },
+        "custom_column_key_values": null
+    },
+    {
+        "input": "What's the start time for the Leland Varsity Chargers' dual match against Overfelt?",
+        "actual_output": null,
+        "expected_output": "The start time for the Leland Varsity Chargers' dual match against Overfelt is 6:30 PM PT on Monday, January 26.",
+        "retrieval_context": null,
+        "context": [
+            "GameChanger RSVP for the Leland Varsity Chargers game Event Name Home Game vs. Overfelt Dual When Mon, January 26 6:30 PM - 7:30 PM PT Where Leland High School 6677 Camden Ave San Jose CA 95120 Notes No Notes RSVP Leland Varsity Chargers is using the free GameChanger app for scheduling and team announcements. Unsubscribe 124 East 14th Street, 17th Floor, New York, NY 10003 © GameChanger Media, Inc. A DICK’S Sporting Goods Company"
+        ],
+        "name": null,
+        "comments": null,
+        "source_file": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "additional_metadata": {
+            "evolutions": [
+                "In-Breadth"
+            ],
+            "synthetic_input_quality": 0.8
+        },
+        "custom_column_key_values": null
+    }
+]

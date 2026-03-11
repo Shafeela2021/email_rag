@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+secrets/
+app/chroma_db/
+*.egg-info
+.DS_Store
+.env
+.python-version
+.venv
