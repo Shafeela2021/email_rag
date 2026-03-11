@@ -15,7 +15,7 @@ cd my-uv-project
 uv init
 
 # Fix macOS quarantine errors
-xattr -c /Users/shafeela/Documents/Ai_trial_cursor
+xattr -c ~/Documents/Ai_trial_cursor
 
 # Install and pin specific Python version
 brew install python@3.12
